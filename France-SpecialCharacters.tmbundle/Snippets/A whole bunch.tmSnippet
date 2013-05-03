@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>
+&lt;br&gt;&amp;#x25C0;
+&lt;br&gt;	&amp;#x2023;
+&lt;br&gt;	&amp;#x25B2;
+&lt;br&gt;	&amp;#x25BC;
+&lt;br&gt;	&amp;#x2729;
+&lt;br&gt;	&amp;bull;
+&lt;br&gt;	&amp;circ;
+&lt;br&gt;	&amp;#x2C7;
+&lt;br&gt;	&amp;larr;
+&lt;br&gt;	&amp;uarr;
+&lt;br&gt;	&amp;rarr;
+&lt;br&gt;	&amp;#x2605;
+&lt;br&gt;	&amp;#x2713;
+&lt;br&gt;	&amp;#x2714;
+&lt;br&gt;	&amp;#x2716;
+&lt;br&gt;	&amp;copy;
+&lt;br&gt;	&amp;reg;
+&lt;br&gt;	&amp;#x2117;
+&lt;br&gt;	&amp;#x25A0;
+&lt;br&gt;	&amp;#x271A;
+&lt;br&gt;	&amp;#x279C;
+&lt;br&gt;	&amp;#x27A1;
+&lt;br&gt;	&amp;lsaquo;
+&lt;br&gt;	&amp;rsaquo;
+&lt;br&gt;	&amp;#x275D;
+&lt;br&gt;	&amp;#x283F;
+&lt;br&gt;	&amp;#x360;
+
+Shapes: http://en.wikipedia.org/wiki/Geometric_Shapes</string>
+	<key>name</key>
+	<string>A whole bunch</string>
+	<key>tabTrigger</key>
+	<string>special</string>
+	<key>uuid</key>
+	<string>AD153292-34BB-4D41-A863-DC08BBF9B9F7</string>
+</dict>
+</plist>
